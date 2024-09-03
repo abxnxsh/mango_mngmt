@@ -1,10 +1,10 @@
 # Modern Agriculture Technology Innovation Center (MATIC)
 
-##Overview
+## Overview
 
 The project focuses on revolutionizing mango logistics through advanced embedded systems and mobile application development. This system encompasses the entire mango logistics process— from inward logistics and grading to ripening and outward processes. By integrating load sensors with a Flutter-based mobile app and Firebase, the project enables real-time weight tracking and process management, streamlining operations and enhancing efficiency in mango logistics.
 
-##Features
+## Features
 
     Inward Logistics: Track the arrival and initial handling of mangoes.
     Grading System: Automated grading based on quality parameters.
@@ -14,7 +14,7 @@ The project focuses on revolutionizing mango logistics through advanced embedded
     Flutter Mobile App: A user-friendly app for managing and monitoring the logistics processes.
     Firebase Integration: Real-time data synchronization and management.
 
-##Technologies Used
+## Technologies Used
 
     Mobile Application: Flutter
     Backend: Firebase
